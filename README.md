@@ -67,6 +67,16 @@ I learn by breaking things and then building tools that catch the break. I test 
 ![Cisco](https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
 
+## 📝 Publications
+
+- **OTA Update-Channel Compromise Risk in Smart Mobility: A Testbed Comparing Governance and Cryptographic Controls**
+  M. T. Hassan, **O. Alraas**, L. A. AbuSerrieh — *2026 International Conference on Smart Mobility (SM)*, IEEE, 2026.
+  [![DOI](https://img.shields.io/badge/DOI-10.1109%2Fsm69703.2026.11614128-00629B?style=flat-square)](https://doi.org/10.1109/sm69703.2026.11614128) [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Read-00629B?style=flat-square)](https://ieeexplore.ieee.org/document/11614128) [![Code](https://img.shields.io/badge/Code-OTA--POC-181717?style=flat-square&logo=github)](https://github.com/omaralraas/OTA-POC)
+
+- **TrustWeave: Static Security Review for AI Agent Configurations** &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/status-in_progress-orange?style=flat-square)
+  Co-author — journal manuscript in preparation. A local, deterministic analyzer that maps source-to-tool flows in agent configs (LangGraph, CrewAI, OpenAI Agents, MCP) and flags untrusted input that can reach privileged actions.
+  [![Project](https://img.shields.io/badge/Project-TrustWeave-181717?style=flat-square&logo=github)](https://github.com/MohammadThabetHassan/trustweave)
+
 ## 🚩 Recent Write-ups
 
 - **[Operation Endgame](https://omaralraas.github.io/write-ups/operation-endgame.html)** (TryHackMe · Hard): full AD compromise via Kerberoasting, password spraying, and BloodHound ACL abuse
